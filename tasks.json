@@ -1,0 +1,14 @@
+[
+    {
+        "title": "to study c language",
+        "category": "study ",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "title": "to write c language notes",
+        "category": "work",
+        "priority": "high",
+        "completed": true
+    }
+]
